@@ -1,0 +1,15 @@
+# Reading pref.tcl
+# OpenFile {C:/Users/david/Documents/UnB/2020.2/LSD/projeto 4/Projeto 4.mpf}
+# Loading project Projeto 4
+vsim -gui work.testbench_exp4ex1
+# vsim -gui work.testbench_exp4ex1 
+# Start time: 16:15:06 on Sep 01,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbench_exp4ex1(tb_exp4ex1)
+# Loading work.exp4ex1(ex1)
+# Loading work.multiplexador(mux)
+add wave -position insertpoint sim:/testbench_exp4ex1/*
+# End time: 20:31:34 on Sep 01,2021, Elapsed time: 4:16:28
+# Errors: 0, Warnings: 1

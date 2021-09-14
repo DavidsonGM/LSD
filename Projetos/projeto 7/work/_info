@@ -1,0 +1,95 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/david/Documents/UnB/2020.2/LSD/projeto 7
+Emaquinaestados
+Z1 w1617977654
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+R0
+Z4 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 7/exp7.vhd
+Z5 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 7/exp7.vhd
+l0
+L16 1
+VPKfRaAL78=Hg38I2d9FYE0
+!s100 5>jZ^Pk7ePdzh:TgKkPG=1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1617977768
+!i10b 1
+Z8 !s108 1617977768.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 7/exp7.vhd|
+!s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 7/exp7.vhd|
+!i113 1
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1 CvgOpt 0
+Amaquinaestados_arch
+R2
+R3
+DEx4 work 14 maquinaestados 0 22 PKfRaAL78=Hg38I2d9FYE0
+!i122 8
+l31
+L23 88
+VBLk56Y@d3:O5VUFTT23fZ1
+!s100 mTFfbAN:cRa9O:3HLhm=G3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 7/exp7.vhd|
+!i113 1
+R10
+R11
+Etestbench_exp7
+Z13 w1617977636
+Z14 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+!i122 7
+R0
+Z15 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 7/tb_exp7.vhd
+Z16 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 7/tb_exp7.vhd
+l0
+L20 1
+VUKbQk^_1iD2D1jelb3@Kb0
+!s100 ;=5a@2VdnXm@<oKYZ<mo62
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 7/tb_exp7.vhd|
+Z18 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 7/tb_exp7.vhd|
+!i113 1
+R10
+R11
+Atb_exp7
+R14
+R2
+R3
+DEx4 work 14 testbench_exp7 0 22 UKbQk^_1iD2D1jelb3@Kb0
+!i122 7
+l35
+L22 45
+VRJ@5mkUJZm1fWL<M[Q9Sa0
+!s100 ]lkSef1X[Ld^cmf50kWmb3
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R10
+R11

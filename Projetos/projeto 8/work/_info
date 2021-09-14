@@ -1,0 +1,404 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/david/Documents/UnB/2020.2/LSD/projeto 7
+Econtador10
+Z0 w1619783908
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 397
+Z3 dC:/Users/david/Documents/UnB/2020.2/LSD/projeto 8
+Z4 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/Contador10.vhd
+Z5 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/Contador10.vhd
+l0
+L15 1
+VHD8iCcBK[AdL99BUEML4E2
+!s100 F1oUCPOUc]6F`PAbP>UjK3
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1619805929
+!i10b 1
+Z8 !s108 1619805929.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/Contador10.vhd|
+Z10 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/Contador10.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Acontador10_arch
+R1
+R2
+DEx4 work 10 contador10 0 22 HD8iCcBK[AdL99BUEML4E2
+!i122 397
+l27
+L23 131
+VC50]Hn1X_`bgJe:mmh4S33
+!s100 lVA8zS_^EG790GW^IahnG0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Econtador100
+Z13 w1619781954
+R1
+R2
+!i122 398
+R3
+Z14 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/Contador100.vhd
+Z15 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/Contador100.vhd
+l0
+Z16 L16 1
+VifL`4XHzSK9FjJZm4YW0M0
+!s100 1Ob;PELfV0V?mfFK_WJhz2
+R6
+32
+Z17 !s110 1619805930
+!i10b 1
+Z18 !s108 1619805930.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/Contador100.vhd|
+Z20 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/Contador100.vhd|
+!i113 1
+R11
+R12
+Aex1
+R1
+R2
+DEx4 work 11 contador100 0 22 ifL`4XHzSK9FjJZm4YW0M0
+!i122 398
+l31
+L22 15
+VL4GbITBafUCMfhFW=n^:O0
+!s100 =9k6c_0fNl;BLSJ;iIKF;3
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Ecruzamento
+Z21 w1619805837
+R1
+R2
+!i122 399
+R3
+Z22 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/cruzamento.vhd
+Z23 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/cruzamento.vhd
+l0
+L21 1
+V6iXcVe52Q_ei57o?`@V1K3
+!s100 ;X2lQieH3L;NE];1SM;6[3
+R6
+32
+R17
+!i10b 1
+R18
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/cruzamento.vhd|
+Z25 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/cruzamento.vhd|
+!i113 1
+R11
+R12
+Acruzamento_arch
+R1
+R2
+DEx4 work 10 cruzamento 0 22 6iXcVe52Q_ei57o?`@V1K3
+!i122 399
+l37
+L27 16
+VJlOP2lzXVSX5D8Y[Ui3P=3
+!s100 WngJWTM3QYifnB[FL<3VH0
+R6
+32
+R17
+!i10b 1
+R18
+R24
+R25
+!i113 1
+R11
+R12
+Emaqestados
+Z26 w1619805382
+R1
+R2
+!i122 400
+R3
+Z27 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/maqestados.vhd
+Z28 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/maqestados.vhd
+l0
+L24 1
+Vj<7UXmWDgo?jWLibBbWZZ1
+!s100 QVNFJAh0SYdRGKSKZ>WL@0
+R6
+32
+R17
+!i10b 1
+R18
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/maqestados.vhd|
+Z30 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/maqestados.vhd|
+!i113 1
+R11
+R12
+Amaqestados_arch
+R1
+R2
+DEx4 work 10 maqestados 0 22 j<7UXmWDgo?jWLibBbWZZ1
+!i122 400
+l42
+L32 89
+Vg1GQi_:O<n7N7>QJf5Io[3
+!s100 :PgcbDzNeU1iMO[0c6Abe3
+R6
+32
+R17
+!i10b 1
+R18
+R29
+R30
+!i113 1
+R11
+R12
+Etestbench_contador100
+Z31 w1619205847
+Z32 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z33 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z34 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 188
+R3
+Z35 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_contador100.vhd
+Z36 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_contador100.vhd
+l0
+L19 1
+V?QV5e43_=^k9Tbne7K5R_0
+!s100 ^5a^nS`gzF47924kF4IRC1
+R6
+32
+Z37 !s110 1619783128
+!i10b 1
+Z38 !s108 1619783128.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_contador100.vhd|
+Z40 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_contador100.vhd|
+!i113 1
+R11
+R12
+Atb_contador100
+R32
+R33
+R34
+R1
+R2
+DEx4 work 21 testbench_contador100 0 22 ?QV5e43_=^k9Tbne7K5R_0
+!i122 188
+l32
+L21 39
+VePC>B`X`BhU3ZE]AX5ORa3
+!s100 C446ch76b:7zjCUNlhc4_1
+R6
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R11
+R12
+Etestbench_cruzamento
+Z41 w1619805925
+R32
+R33
+R34
+R1
+R2
+!i122 401
+R3
+Z42 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_cruzamento.vhd
+Z43 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_cruzamento.vhd
+l0
+L23 1
+VPgld5f6TKA27ad?Q=X:HK0
+!s100 <_c758NeQPo=PjB?DJ3550
+R6
+32
+R17
+!i10b 1
+R18
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_cruzamento.vhd|
+Z45 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_cruzamento.vhd|
+!i113 1
+R11
+R12
+Atb_cruzamento
+R32
+R33
+R34
+R1
+R2
+DEx4 work 20 testbench_cruzamento 0 22 Pgld5f6TKA27ad?Q=X:HK0
+!i122 401
+l35
+L25 25
+VLDcP?ighiUXlRYZYM^>D03
+!s100 n]4HG:<gWZog;^gbWnIK60
+R6
+32
+R17
+!i10b 1
+R18
+R44
+R45
+!i113 1
+R11
+R12
+Etestbench_maqestados
+Z46 w1619780564
+R32
+R33
+R34
+R1
+R2
+!i122 360
+R3
+Z47 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_maqestados.vhd
+Z48 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_maqestados.vhd
+l0
+L7 1
+VZ7glIIEa=>mHgMz@K]Meh0
+!s100 bEMLH;oNo5HEF3IJ;k?GQ3
+R6
+32
+Z49 !s110 1619799148
+!i10b 1
+Z50 !s108 1619799147.000000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_maqestados.vhd|
+Z52 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_maqestados.vhd|
+!i113 1
+R11
+R12
+Atb_maqestados
+R32
+R33
+R34
+R1
+R2
+DEx4 work 20 testbench_maqestados 0 22 Z7glIIEa=>mHgMz@K]Meh0
+!i122 360
+l25
+L9 33
+VFlJEUJ0=9[bllZYQg9_ZS0
+!s100 PLe6md]c92>[AY3?jb@aM0
+R6
+32
+R49
+!i10b 1
+R50
+R51
+R52
+!i113 1
+R11
+R12
+Etestbench_time_flags
+Z53 w1619712109
+R32
+R33
+R34
+R1
+R2
+!i122 239
+R3
+Z54 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_time_flags.vhd
+Z55 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_time_flags.vhd
+l0
+R16
+V9]]a[@2kE9H1NHWMb00113
+!s100 0mG[gMUoEzhEai^Oz6Hko3
+R6
+32
+Z56 !s110 1619794488
+!i10b 1
+Z57 !s108 1619794487.000000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_time_flags.vhd|
+Z59 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/tb_time_flags.vhd|
+!i113 1
+R11
+R12
+Atb_time_flags
+R32
+R33
+R34
+R1
+R2
+DEx4 work 20 testbench_time_flags 0 22 9]]a[@2kE9H1NHWMb00113
+!i122 239
+l28
+L18 23
+V=XzQnMFZU?_8dOFj3NglT3
+!s100 Wd9HFFbhbimbzD56lOR4L0
+R6
+32
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 1
+R11
+R12
+Etimeflags
+Z60 w1619799883
+R1
+R2
+!i122 402
+R3
+Z61 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/time_flags_v2.vhd
+Z62 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/time_flags_v2.vhd
+l0
+L12 1
+V2Fag>cWLi3?WX`o97GQ2_1
+!s100 IjHa;SEP<OWSFTTE9?SAB3
+R6
+32
+R17
+!i10b 1
+R18
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/time_flags_v2.vhd|
+Z64 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 8/time_flags_v2.vhd|
+!i113 1
+R11
+R12
+Atimeflags_arch
+R1
+R2
+Z65 DEx4 work 9 timeflags 0 22 2Fag>cWLi3?WX`o97GQ2_1
+!i122 402
+l28
+Z66 L19 21
+Z67 VzY::oPL8^AfWR;kBNH[0j2
+Z68 !s100 0DVMSN_6o?S96MHfFEkH^1
+R6
+32
+R17
+!i10b 1
+R18
+R63
+R64
+!i113 1
+R11
+R12

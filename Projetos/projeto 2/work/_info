@@ -1,0 +1,215 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/david/Documents/UnB/2020.2/LSD/teste
+Eexp5ex2
+w1616335679
+Z0 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 26
+Z3 dC:/Users/david/Documents/UnB/2020.2/LSD/projeto 2
+8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/exp5ex2.vhd
+FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/exp5ex2.vhd
+l0
+Z4 L12 1
+VJg:PRI8bC<4`j[S9FLQeX0
+!s100 K>O@_@AL=F`LTPAiJA@<R3
+Z5 OV;C;2020.1;71
+32
+!s110 1616336400
+!i10b 1
+!s108 1616336400.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/exp5ex2.vhd|
+!s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/exp5ex2.vhd|
+!i113 1
+Z6 o-work work -2002 -explicit
+Z7 tExplicit 1 CvgOpt 0
+Emultiplexador
+Z8 w1616336080
+R1
+R2
+!i122 29
+R3
+Z9 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/multiplexador.vhd
+Z10 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/multiplexador.vhd
+l0
+L16 1
+Ve9n30]Q;7S9?HRSlHTn@Y0
+!s100 iXBcjBD>J`[oIoff7OkWQ0
+R5
+32
+Z11 !s110 1630088254
+!i10b 1
+Z12 !s108 1630088253.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/multiplexador.vhd|
+Z14 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/multiplexador.vhd|
+!i113 1
+R6
+R7
+Amux
+R1
+R2
+DEx4 work 13 multiplexador 0 22 e9n30]Q;7S9?HRSlHTn@Y0
+!i122 29
+l24
+L23 9
+VdHYl79j81zoa;U4Uchf7I0
+!s100 0>@3DeMDRb97fMPm_[Lkg2
+R5
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R6
+R7
+Aex1
+R0
+R1
+R2
+DEx4 work 13 multiplexador 0 22 29oiP^:6aZT@=8gg^7:bo0
+!i122 25
+l20
+L18 5
+Vd9mckenNc9@;7hMb1>71g0
+!s100 [9W=:o8e=kb6cGM>8I<n83
+R5
+32
+!s110 1616336015
+!i10b 1
+!s108 1616336015.000000
+R13
+R14
+!i113 1
+R6
+R7
+w1616336011
+Esomador_completo
+Z15 w1614914349
+R1
+R2
+!i122 27
+R3
+Z16 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/somador_completo.vhd
+Z17 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/somador_completo.vhd
+l0
+L25 1
+VFTodZQQRNzS45M<7mSA:A3
+!s100 WPh8C0SAP8?WeT6m8J?m`2
+R5
+32
+Z18 !s110 1628543756
+!i10b 1
+Z19 !s108 1628543755.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/somador_completo.vhd|
+Z21 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/somador_completo.vhd|
+!i113 1
+R6
+R7
+Artl
+R1
+R2
+DEx4 work 16 somador_completo 0 22 FTodZQQRNzS45M<7mSA:A3
+!i122 27
+l37
+L36 7
+V?L]5nOXCjlm]QbAFCnA_M1
+!s100 TjbZLGUXH@GA8W7HJaL1F1
+R5
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R6
+R7
+Esomador_tb
+Z22 w1614914734
+!i122 28
+R3
+Z23 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_somador_completo.vhd
+Z24 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_somador_completo.vhd
+l0
+L21 1
+V?g;k=Q`[SZj>=Wb4h^TSn1
+!s100 i4=:P_<hYfnhQLi:eh?EJ0
+R5
+32
+R18
+!i10b 1
+Z25 !s108 1628543756.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_somador_completo.vhd|
+Z27 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_somador_completo.vhd|
+!i113 1
+R6
+R7
+Atb_somador_completo
+DEx4 work 10 somador_tb 0 22 ?g;k=Q`[SZj>=Wb4h^TSn1
+R1
+R2
+!i122 28
+l55
+L33 46
+Vo0`?AgYkel]W^cW>=m_n60
+!s100 XaM8mfR4cb?KT5>fd>jcB3
+R5
+32
+R18
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R6
+R7
+Etestbench_mux
+Z28 w1614954020
+!i122 30
+R3
+Z29 8C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_multiplexador.vhd
+Z30 FC:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_multiplexador.vhd
+l0
+R4
+VeF>2Qonn69Oon[AAeBehQ2
+!s100 Y18a:Ac9Maf@M]I1?>SHK0
+R5
+32
+R11
+!i10b 1
+Z31 !s108 1630088254.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_multiplexador.vhd|
+!s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_multiplexador.vhd|
+!i113 1
+R6
+R7
+Atb_multiplexador
+Z33 DEx4 work 13 testbench_mux 0 22 eF>2Qonn69Oon[AAeBehQ2
+R1
+R2
+!i122 30
+l34
+Z34 L20 47
+Z35 VS?NeO^c55dnKe3BO<gzXA0
+Z36 !s100 He8BfGzK?FRYNJ]k7j[z>0
+R5
+32
+R11
+!i10b 1
+R31
+R32
+Z37 !s107 C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_multiplexador.vhd|
+!i113 1
+R6
+R7

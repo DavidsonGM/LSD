@@ -1,0 +1,35 @@
+# Reading pref.tcl
+# OpenFile {C:/Users/david/Documents/UnB/2020.2/LSD/projeto 5/exp5ex3.mpf}
+# Loading project exp5ex3
+vsim -gui work.exp5ex3tm
+# vsim -gui work.exp5ex3tm 
+# Start time: 12:17:28 on Sep 10,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.exp5ex3tm(ex3)
+# Loading work.exp5_ex1(ex1)
+# Loading work.somador_completo(rtl)
+# Loading work.exp5ex2(ex1)
+# Loading ieee.numeric_std(body)
+# Loading work.testbench_exp5ex3(tb_exp5ex3)
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:D:/mtitcl/vsim/qstructure.tc_:2478: ::QStructure::sort .main_pane.structure 2 descending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 2 descending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 2 descending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 2 descending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+add wave -position insertpoint sim:/exp5ex3tm/*
+run
+# ** Note: Iniciando teste...
+#    Time: 0 ps  Iteration: 0  Instance: /exp5ex3tm/U2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /exp5ex3tm/U1
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /exp5ex3tm/U1
+# ** Note: Teste finalizado!
+#    Time: 128 us  Iteration: 0  Instance: /exp5ex3tm/U2
+# End time: 12:19:07 on Sep 10,2021, Elapsed time: 0:01:39
+# Errors: 0, Warnings: 3

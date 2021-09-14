@@ -1,0 +1,17 @@
+{C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/multiplexador.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/multiplexador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MULTIPLEXADOR
+-- Compiling architecture mux of MULTIPLEXADOR
+
+} {} {}} {C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_multiplexador.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/tb_multiplexador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity testbench_mux
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling architecture tb_multiplexador of testbench_mux
+
+} {} {}}

@@ -1,0 +1,26 @@
+# Reading pref.tcl
+# OpenFile {C:/Users/david/Documents/UnB/2020.2/LSD/projeto 2/multiplexador41.mpf}
+# Loading project multiplexador41
+# Compile of multiplexador.vhd was successful.
+# Compile of tb_multiplexador.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testbench_mux
+# vsim -gui work.testbench_mux 
+# Start time: 15:17:54 on Aug 27,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.testbench_mux(tb_multiplexador)
+# Loading work.multiplexador(mux)
+add wave -position insertpoint sim:/testbench_mux/mux/*
+run
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# End time: 16:09:18 on Aug 27,2021, Elapsed time: 0:51:24
+# Errors: 0, Warnings: 2
